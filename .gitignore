@@ -125,5 +125,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-/urlinkler/settings.py
-/urlinkler/conf.py
